@@ -1,3 +1,5 @@
+// main app
+
 import React, { Component } from 'react'
 import Header from './components/Header'
 
@@ -13,3 +15,6 @@ render() {
 }
 
 export default App
+
+
+
